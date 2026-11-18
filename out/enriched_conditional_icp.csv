@@ -1,0 +1,296 @@
+domain,first_name,last_name,title_seniority,title_function,icp_fit,company_size,company_size_confidence,company_size_provider,tech_stack,tech_stack_confidence,tech_stack_provider,title,title_confidence,title_provider,email,email_confidence,email_provider,phone,phone_confidence,phone_provider,row_cost
+northbright6.example,Avery,Dunn,c_level,other,False,51-200,0.878,midfinder,zendesk,0.886,techscan,CEO & Founder,1.0,input,,,,,,,0.15
+vertexlumen33.example,Quinn,Grove,vp,sales,False,1-10,0.839,midfinder,shopify,0.9,techscan,VP Sales,1.0,input,quinn.grove@vertexlumen33.example,0.712,budgetdata,,,,0.17
+embernorth10.example,Skyler,Jarvis,c_level,other,False,1001-5000,0.846,midfinder,hubspot,0.669,scrapely,Chief Financial Officer,0.908,premiumgraph,,,,,,,0.42
+gamutorbit64.example,Drew,Hale,ic,sales,False,1-10,0.869,midfinder,salesforce,0.855,techscan,Sales Development Rep,1.0,input,,,,,,,0.12
+helixlumen27.example,Morgan,Alder,vp,sales,True,201-1000,0.975,premiumgraph,hubspot;shopify;stripe,0.899,premiumgraph,VP Sales,1.0,input,morgan.alder@helixlumen27.example,0.96,premiumgraph,+1-555-817-5390,0.695,budgetdata,0.9
+cobaltbright24.example,Casey,Cedar,ic,sales,True,51-200,0.99,premiumgraph,aws;snowflake;zendesk,0.809,techscan,Sales Development Rep,1.0,input,,,,,,,0.28
+cobaltnorth54.example,Alex,Marsh,director,marketing,False,1-10,0.986,premiumgraph,shopify,0.832,techscan,Sr. Director of Marketing,1.0,input,,,,,,,0.27
+northhelix13.example,Blake,Foster,ic,sales,True,201-1000,0.859,midfinder,segment;stripe,0.867,techscan,Account Executive,1.0,input,blake.foster@northhelix13.example,0.887,midfinder,+1-555-789-4119,0.861,midfinder,0.57
+helixorbit20.example,Reese,Ellis,vp,sales,False,11-50,0.834,midfinder,segment;shopify;zendesk,0.845,techscan,VP Sales,1.0,input,,,,,,,0.12
+helixnorth4.example,Drew,Nash,ic,sales,False,1-10,0.976,premiumgraph,aws;segment,0.89,premiumgraph,Account Executive,1.0,input,,,,,,,0.36
+helixorbit20.example,Parker,Reyes,ic,sales,False,11-50,0.834,midfinder,segment;shopify;zendesk,0.845,techscan,Account Executive,1.0,input,parker.reyes@helixorbit20.example,0.696,budgetdata,,,,0.05
+gamuthelix44.example,Casey,Birch,director,marketing,True,1001-5000,0.885,midfinder,stripe,0.846,techscan,Head of Growth,1.0,input,casey.birch@gamuthelix44.example,0.96,premiumgraph,,,,0.54
+northlumen58.example,Emerson,Jarvis,c_level,other,False,201-1000,0.817,midfinder,snowflake;zendesk,0.895,techscan,Chief Financial Officer,0.776,budgetdata,emerson.jarvis@northlumen58.example,0.756,budgetdata,,,,0.27
+fablecobalt36.example,Sam,Lowe,manager,revops,True,201-1000,0.934,premiumgraph,aws;shopify;snowflake,0.869,techscan,Revenue Operations Manager,0.853,midfinder,sam.lowe@fablecobalt36.example,0.841,midfinder,,,,0.63
+gamutbright19.example,Avery,Lowe,director,marketing,True,51-200,0.598,scrapely,aws;shopify,0.87,techscan,Sr. Director of Marketing,1.0,input,avery.lowe@gamutbright19.example,0.876,midfinder,+1-555-025-7016,0.823,midfinder,0.49
+lumenhelix12.example,Harper,Pike,vp,sales,True,51-200,0.914,premiumgraph,aws;salesforce;shopify,0.811,techscan,VP Sales,1.0,input,harper.pike@lumenhelix12.example,0.972,premiumgraph,+1-555-170-6188,0.969,premiumgraph,1.57
+fablegamut28.example,Morgan,Lowe,c_level,other,False,11-50,0.852,midfinder,shopify;snowflake,0.817,techscan,CEO & Founder,1.0,input,morgan.lowe@fablegamut28.example,0.758,budgetdata,,,,0.19
+helixember14.example,Jordan,Foster,director,marketing,True,51-200,0.853,midfinder,hubspot;salesforce;stripe,0.839,techscan,Head of Growth,1.0,input,jordan.foster@helixember14.example,0.99,premiumgraph,+1-555-301-5440,0.852,midfinder,0.86
+lumenhelix12.example,Skyler,Pike,ic,sales,True,51-200,0.914,premiumgraph,aws;salesforce;shopify,0.811,techscan,Sales Development Rep,1.0,input,skyler.pike@lumenhelix12.example,0.812,midfinder,+1-555-898-5201,0.811,midfinder,0.5
+northbright43.example,Reese,Ivers,vp,sales,True,1001-5000,0.813,midfinder,snowflake;stripe,0.821,techscan,VP Sales,1.0,input,reese.ivers@northbright43.example,0.764,budgetdata,+1-555-440-4993,0.71,budgetdata,0.27
+vertexvertex70.example,Jamie,Alder,,,True,51-200,0.854,midfinder,shopify;stripe,0.844,techscan,,,,jamie.alder@vertexvertex70.example,0.947,premiumgraph,,,,0.61
+helixvertex73.example,Reese,Ellis,c_level,other,False,51-200,0.82,midfinder,segment;shopify;stripe,0.855,techscan,CEO & Founder,1.0,input,reese.ellis@helixvertex73.example,0.521,scrapely,,,,0.17
+gamutbright19.example,Morgan,Hale,director,marketing,True,51-200,0.598,scrapely,aws;shopify,0.87,techscan,Director of Marketing,0.93,premiumgraph,morgan.hale@gamutbright19.example,0.85,midfinder,+1-555-874-7386,0.816,midfinder,0.9
+embercobalt29.example,Sam,Dunn,director,marketing,True,201-1000,0.895,midfinder,salesforce;shopify;snowflake,0.889,premiumgraph,Head of Growth,0.867,midfinder,sam.dunn@embercobalt29.example,0.944,premiumgraph,+1-555-088-2228,0.912,premiumgraph,2.06
+embervertex40.example,Avery,Jarvis,manager,operations,False,201-1000,0.887,midfinder,salesforce;zendesk,0.856,techscan,Operations Manager,1.0,input,avery.jarvis@embervertex40.example,0.729,budgetdata,,,,0.21
+gamutbright25.example,Quinn,Jarvis,c_level,other,False,11-50,0.915,premiumgraph,segment;shopify;stripe,0.809,techscan,Chief Financial Officer,1.0,input,quinn.jarvis@gamutbright25.example,0.75,budgetdata,,,,0.29
+fablecobalt55.example,Drew,Ivers,manager,revops,True,1001-5000,0.874,midfinder,salesforce;snowflake,0.833,techscan,RevOps Manager,1.0,input,drew.ivers@fablecobalt55.example,0.973,premiumgraph,+1-555-362-2451,0.89,premiumgraph,1.44
+helixlumen23.example,Blake,Lowe,director,marketing,True,201-1000,0.842,midfinder,hubspot,0.824,techscan,Head of Growth,1.0,input,,,,,,,0.14
+embernorth1.example,Quinn,Ellis,ic,sales,False,11-50,0.892,midfinder,aws;shopify;zendesk,0.812,techscan,Sales Development Rep,1.0,input,quinn.ellis@embernorth1.example,0.508,scrapely,,,,0.14
+brightorbit49.example,Jordan,Foster,ic,sales,False,11-50,0.79,budgetdata,hubspot;zendesk,0.885,techscan,Account Executive,1.0,input,jordan.foster@brightorbit49.example,0.674,budgetdata,,,,0.13
+embervertex18.example,Skyler,Birch,c_level,other,False,1001-5000,0.933,premiumgraph,zendesk,0.639,scrapely,CEO & Founder,1.0,input,,,,,,,0.24
+brightfable57.example,Casey,Keene,c_level,other,False,51-200,0.827,midfinder,stripe,0.827,techscan,Chief Financial Officer,1.0,input,casey.keene@brightfable57.example,0.705,budgetdata,,,,0.22
+brightorbit49.example,Drew,Hale,,,False,11-50,0.79,budgetdata,hubspot;zendesk,0.885,techscan,,,,,,,,,,0.0
+helixfable52.example,Reese,Foster,manager,revops,False,11-50,0.845,midfinder,segment;stripe;zendesk,0.815,techscan,RevOps Manager,1.0,input,,,,,,,0.15
+gamutorbit64.example,Jamie,Reyes,manager,revops,False,1-10,0.869,midfinder,salesforce,0.855,techscan,RevOps Manager,1.0,input,,,,,,,0.0
+helixnorth26.example,Taylor,Birch,director,marketing,True,51-200,0.841,midfinder,snowflake,0.806,techscan,Sr. Director of Marketing,1.0,input,taylor.birch@helixnorth26.example,0.884,midfinder,+1-555-713-7543,0.865,midfinder,0.61
+embernorth10.example,Casey,Birch,manager,operations,False,1001-5000,0.846,midfinder,hubspot,0.669,scrapely,Operations Manager,1.0,input,casey.birch@embernorth10.example,0.744,budgetdata,,,,0.05
+orbitember53.example,Morgan,Keene,ic,engineering,False,1-10,0.845,midfinder,,,,Software Engineer,1.0,input,morgan.keene@orbitember53.example,0.717,budgetdata,,,,0.19
+cobaltnorth54.example,Skyler,Lowe,c_level,other,False,1-10,0.986,premiumgraph,shopify,0.832,techscan,Chief Financial Officer,1.0,input,skyler.lowe@cobaltnorth54.example,0.689,budgetdata,,,,0.07
+fablebright50.example,Rowan,Marsh,director,marketing,False,1-10,0.829,midfinder,salesforce,0.895,techscan,Head of Growth,1.0,input,,,,,,,0.14
+vertexlumen33.example,Jamie,Grove,ic,engineering,False,1-10,0.839,midfinder,shopify,0.9,techscan,Software Engineer,1.0,input,jamie.grove@vertexlumen33.example,0.689,budgetdata,,,,0.05
+vertexvertex70.example,Morgan,Stone,director,marketing,True,51-200,0.854,midfinder,shopify;stripe,0.844,techscan,Head of Growth,1.0,input,morgan.stone@vertexvertex70.example,0.818,midfinder,+1-555-138-9149,0.884,premiumgraph,1.42
+brightlumen8.example,Jamie,Marsh,ic,engineering,False,11-50,0.853,midfinder,stripe,0.81,techscan,Software Engineer,1.0,input,jamie.marsh@brightlumen8.example,0.734,budgetdata,,,,0.19
+orbitlumen32.example,Skyler,Alder,vp,sales,False,11-50,0.904,premiumgraph,zendesk,0.839,techscan,VP of Sales,0.772,budgetdata,,,,,,,0.33
+gamutbright25.example,Blake,Foster,ic,engineering,False,11-50,0.915,premiumgraph,segment;shopify;stripe,0.809,techscan,Software Engineer,1.0,input,,,,,,,0.0
+northgamut16.example,Jordan,Birch,director,marketing,True,1001-5000,0.815,midfinder,,,,Head of Growth,0.874,midfinder,jordan.birch@northgamut16.example,0.883,midfinder,+1-555-745-2307,0.917,premiumgraph,1.36
+vertexorbit17.example,Parker,Dunn,ic,engineering,False,1001-5000,0.87,midfinder,hubspot;segment;snowflake,0.823,techscan,Software Engineer,1.0,input,parker.dunn@vertexorbit17.example,0.731,budgetdata,,,,0.21
+fablehelix47.example,Jamie,Hale,c_level,other,False,51-200,0.913,premiumgraph,hubspot;stripe,0.876,techscan,CEO & Founder,1.0,input,,,,,,,0.23
+brightlumen8.example,Sam,Ivers,director,marketing,False,11-50,0.853,midfinder,stripe,0.81,techscan,Sr. Director of Marketing,1.0,input,sam.ivers@brightlumen8.example,0.693,budgetdata,,,,0.07
+helixorbit20.example,Avery,Orr,ic,engineering,False,11-50,0.834,midfinder,segment;shopify;zendesk,0.845,techscan,Software Engineer,1.0,input,avery.orr@helixorbit20.example,0.689,budgetdata,,,,0.07
+orbitember53.example,Blake,Marsh,manager,operations,False,1-10,0.845,midfinder,,,,Operations Manager,1.0,input,,,,,,,0.0
+fablebright50.example,Taylor,Foster,manager,revops,False,1-10,0.829,midfinder,salesforce,0.895,techscan,RevOps Manager,1.0,input,,,,,,,0.0
+brightgamut2.example,Taylor,Birch,c_level,other,False,1001-5000,0.909,premiumgraph,hubspot;shopify;zendesk,0.821,techscan,Chief Financial Officer,1.0,input,taylor.birch@brightgamut2.example,0.673,budgetdata,,,,0.3
+fableorbit37.example,Harper,Cedar,director,marketing,False,1-10,0.877,midfinder,snowflake,0.846,techscan,Sr. Director of Marketing,1.0,input,,,,,,,0.12
+embernorth10.example,Alex,Birch,ic,engineering,False,1001-5000,0.846,midfinder,hubspot,0.669,scrapely,Software Engineer,1.0,input,alex.birch@embernorth10.example,0.748,budgetdata,,,,0.07
+orbitvertex59.example,Sam,Jarvis,ic,engineering,False,1001-5000,0.87,midfinder,shopify;zendesk,0.843,techscan,Software Engineer,1.0,input,sam.jarvis@orbitvertex59.example,0.753,budgetdata,,,,0.2
+northgamut16.example,Sam,Nash,c_level,other,False,1001-5000,0.815,midfinder,,,,Chief Financial Officer,1.0,input,sam.nash@northgamut16.example,0.708,budgetdata,,,,0.05
+gamutorbit66.example,Reese,Dunn,manager,revops,False,1-10,0.849,midfinder,salesforce,0.884,techscan,RevOps Manager,1.0,input,reese.dunn@gamutorbit66.example,0.732,budgetdata,,,,0.17
+northlumen58.example,Rowan,Alder,manager,revops,True,201-1000,0.817,midfinder,snowflake;zendesk,0.895,techscan,Revenue Operations Manager,0.838,midfinder,rowan.alder@northlumen58.example,0.824,midfinder,+1-555-066-0569,0.771,midfinder,0.67
+gamutlumen5.example,Jordan,Birch,manager,operations,False,1001-5000,0.887,midfinder,shopify;stripe,0.884,techscan,Operations Manager,1.0,input,jordan.birch@gamutlumen5.example,0.54,scrapely,,,,0.13
+gamutvertex21.example,Taylor,Alder,director,marketing,False,1-10,0.85,midfinder,snowflake,0.903,premiumgraph,Sr. Director of Marketing,1.0,input,taylor.alder@gamutvertex21.example,0.684,budgetdata,,,,0.3
+northhelix13.example,Sam,Ivers,vp,sales,True,201-1000,0.859,midfinder,segment;stripe,0.867,techscan,VP of Sales,0.87,midfinder,sam.ivers@northhelix13.example,0.874,midfinder,+1-555-264-9094,0.949,premiumgraph,1.24
+brightfable57.example,Avery,Alder,ic,sales,True,51-200,0.827,midfinder,stripe,0.827,techscan,Account Executive,0.809,midfinder,avery.alder@brightfable57.example,0.815,midfinder,+1-555-598-3208,0.966,premiumgraph,1.22
+northlumen58.example,Riley,Pike,director,marketing,True,201-1000,0.817,midfinder,snowflake;zendesk,0.895,techscan,Sr. Director of Marketing,1.0,input,riley.pike@northlumen58.example,0.823,midfinder,+1-555-723-6833,0.788,midfinder,0.5
+northfable72.example,Drew,Ellis,manager,operations,False,11-50,0.864,midfinder,salesforce,0.876,techscan,Operations Manager,0.756,budgetdata,,,,,,,0.21
+helixnorth4.example,Quinn,Ellis,,,False,1-10,0.976,premiumgraph,aws;segment,0.89,premiumgraph,,,,quinn.ellis@helixnorth4.example,0.757,budgetdata,,,,0.05
+emberember7.example,Alex,Grove,manager,operations,False,51-200,0.884,midfinder,salesforce;snowflake,0.853,techscan,Operations Manager,0.9,midfinder,,,,,,,0.27
+brightlumen8.example,Alex,Hale,director,marketing,False,11-50,0.853,midfinder,stripe,0.81,techscan,Director of Marketing,0.593,scrapely,,,,,,,0.02
+cobaltvertex41.example,Riley,Nash,c_level,other,False,11-50,0.805,midfinder,shopify,0.647,scrapely,CEO & Founder,1.0,input,riley.nash@cobaltvertex41.example,0.765,budgetdata,,,,0.16
+lumenember60.example,Harper,Stone,ic,sales,False,1-10,0.831,midfinder,aws;snowflake,0.89,techscan,Account Executive,1.0,input,,,,,,,0.12
+northgamut16.example,Blake,Lowe,c_level,other,False,1001-5000,0.815,midfinder,,,,Chief Financial Officer,0.849,midfinder,blake.lowe@northgamut16.example,0.762,budgetdata,,,,0.22
+orbitorbit74.example,Harper,Nash,director,marketing,True,1001-5000,0.941,premiumgraph,snowflake;zendesk,0.829,techscan,Head of Growth,1.0,input,harper.nash@orbitorbit74.example,0.831,midfinder,,,,0.43
+northbright6.example,Avery,Stone,manager,operations,False,51-200,0.878,midfinder,zendesk,0.886,techscan,Operations Manager,1.0,input,avery.stone@northbright6.example,0.682,budgetdata,,,,0.07
+helixfable52.example,Rowan,Ellis,vp,sales,False,11-50,0.845,midfinder,segment;stripe;zendesk,0.815,techscan,VP Sales,1.0,input,rowan.ellis@helixfable52.example,0.693,budgetdata,,,,0.07
+helixnorth4.example,Drew,Alder,director,marketing,False,1-10,0.976,premiumgraph,aws;segment,0.89,premiumgraph,Head of Growth,0.703,budgetdata,drew.alder@helixnorth4.example,0.676,budgetdata,,,,0.1
+emberfable61.example,Taylor,Ellis,manager,revops,True,201-1000,0.956,premiumgraph,hubspot;zendesk,0.885,techscan,RevOps Manager,1.0,input,taylor.ellis@emberfable61.example,0.876,midfinder,+1-555-376-0522,0.892,premiumgraph,1.63
+embernorth10.example,Quinn,Stone,director,marketing,True,1001-5000,0.846,midfinder,hubspot,0.669,scrapely,Head of Growth,0.884,midfinder,quinn.stone@embernorth10.example,0.899,midfinder,+1-555-869-5841,0.953,premiumgraph,1.59
+gamutbright25.example,Quinn,Orr,ic,engineering,False,11-50,0.915,premiumgraph,segment;shopify;stripe,0.809,techscan,Software Engineer,1.0,input,quinn.orr@gamutbright25.example,0.671,budgetdata,,,,0.07
+fablegamut28.example,Morgan,Ellis,,,False,11-50,0.852,midfinder,shopify;snowflake,0.817,techscan,,,,morgan.ellis@fablegamut28.example,0.756,budgetdata,,,,0.07
+vertexhelix56.example,Harper,Pike,vp,sales,True,51-200,0.575,scrapely,aws;salesforce;zendesk,0.807,techscan,VP Sales,1.0,input,harper.pike@vertexhelix56.example,0.98,premiumgraph,,,,0.49
+northorbit51.example,Quinn,Ellis,ic,sales,True,1001-5000,0.844,midfinder,hubspot,0.68,scrapely,Account Executive,1.0,input,quinn.ellis@northorbit51.example,0.876,midfinder,,,,0.32
+fablecobalt55.example,Riley,Birch,ic,sales,True,1001-5000,0.874,midfinder,salesforce;snowflake,0.833,techscan,Sales Development Rep,1.0,input,riley.birch@fablecobalt55.example,0.816,midfinder,,,,0.15
+gamutvertex21.example,Morgan,Cedar,,,False,1-10,0.85,midfinder,snowflake,0.903,premiumgraph,,,,morgan.cedar@gamutvertex21.example,0.718,budgetdata,,,,0.07
+emberfable61.example,Sam,Dunn,manager,operations,False,201-1000,0.956,premiumgraph,hubspot;zendesk,0.885,techscan,Operations Manager,1.0,input,sam.dunn@emberfable61.example,0.704,budgetdata,,,,0.05
+fablehelix47.example,Avery,Ivers,manager,revops,True,51-200,0.913,premiumgraph,hubspot;stripe,0.876,techscan,RevOps Manager,1.0,input,avery.ivers@fablehelix47.example,0.906,premiumgraph,+1-555-440-6451,0.885,premiumgraph,1.35
+fablehelix47.example,Avery,Marsh,director,marketing,True,51-200,0.913,premiumgraph,hubspot;stripe,0.876,techscan,Head of Growth,1.0,input,avery.marsh@fablehelix47.example,0.83,midfinder,+1-555-860-6459,0.898,premiumgraph,1.07
+northfable72.example,Casey,Alder,ic,sales,False,11-50,0.864,midfinder,salesforce,0.876,techscan,Account Executive,1.0,input,casey.alder@northfable72.example,0.737,budgetdata,,,,0.05
+embernorth10.example,Emerson,Birch,manager,revops,True,1001-5000,0.846,midfinder,hubspot,0.669,scrapely,RevOps Manager,1.0,input,emerson.birch@embernorth10.example,0.83,midfinder,+1-555-520-6151,0.896,premiumgraph,1.15
+gamutvertex21.example,Jamie,Cedar,manager,operations,False,1-10,0.85,midfinder,snowflake,0.903,premiumgraph,Operations Manager,1.0,input,,,,,,,0.0
+orbitvertex59.example,Jordan,Orr,director,marketing,True,1001-5000,0.87,midfinder,shopify;zendesk,0.843,techscan,Sr. Director of Marketing,1.0,input,jordan.orr@orbitvertex59.example,0.98,premiumgraph,+1-555-469-0331,0.848,midfinder,0.7
+fablecobalt36.example,Alex,Nash,ic,engineering,False,201-1000,0.934,premiumgraph,aws;shopify;snowflake,0.869,techscan,Senior Data Engineer,0.808,midfinder,,,,,,,0.12
+fableember63.example,Quinn,Orr,ic,sales,True,1001-5000,0.858,midfinder,snowflake;zendesk,0.879,techscan,Account Executive,1.0,input,quinn.orr@fableember63.example,0.854,midfinder,+1-555-776-1422,0.865,midfinder,0.6
+fablecobalt55.example,Parker,Reyes,director,marketing,True,1001-5000,0.874,midfinder,salesforce;snowflake,0.833,techscan,Head of Growth,1.0,input,parker.reyes@fablecobalt55.example,0.86,midfinder,,,,0.15
+northlumen58.example,Morgan,Stone,c_level,other,False,201-1000,0.817,midfinder,snowflake;zendesk,0.895,techscan,Founder & CEO,0.847,midfinder,morgan.stone@northlumen58.example,0.671,budgetdata,,,,0.24
+gamutorbit64.example,Casey,Ivers,ic,sales,False,1-10,0.869,midfinder,salesforce,0.855,techscan,Sales Development Rep,1.0,input,casey.ivers@gamutorbit64.example,0.743,budgetdata,,,,0.05
+fableember63.example,Drew,Cedar,manager,operations,False,1001-5000,0.858,midfinder,snowflake;zendesk,0.879,techscan,Operations Manager,1.0,input,,,,,,,0.0
+gamutlumen5.example,Emerson,Birch,ic,sales,True,1001-5000,0.887,midfinder,shopify;stripe,0.884,techscan,Account Executive,1.0,input,emerson.birch@gamutlumen5.example,0.698,budgetdata,+1-555-539-3404,0.913,premiumgraph,0.97
+brightgamut9.example,Skyler,Reyes,manager,revops,True,201-1000,0.931,premiumgraph,snowflake;stripe,0.676,scrapely,RevOps Manager,1.0,input,skyler.reyes@brightgamut9.example,0.877,midfinder,+1-555-579-7465,0.838,midfinder,0.72
+gamutlumen5.example,Casey,Cedar,c_level,other,False,1001-5000,0.887,midfinder,shopify;stripe,0.884,techscan,CEO & Founder,1.0,input,,,,,,,0.0
+helixorbit20.example,Drew,Ivers,c_level,other,False,11-50,0.834,midfinder,segment;shopify;zendesk,0.845,techscan,CEO & Founder,1.0,input,drew.ivers@helixorbit20.example,0.76,budgetdata,,,,0.07
+emberfable61.example,Rowan,Ellis,c_level,other,False,201-1000,0.956,premiumgraph,hubspot;zendesk,0.885,techscan,Chief Financial Officer,1.0,input,rowan.ellis@emberfable61.example,0.718,budgetdata,,,,0.05
+fablecobalt31.example,Blake,Ivers,manager,operations,False,11-50,0.927,premiumgraph,aws;hubspot;snowflake,0.891,techscan,Operations Manager,1.0,input,blake.ivers@fablecobalt31.example,0.728,budgetdata,,,,0.33
+helixbright11.example,Morgan,Reyes,director,marketing,True,201-1000,0.852,midfinder,hubspot;salesforce,0.895,techscan,Head of Growth,1.0,input,morgan.reyes@helixbright11.example,0.88,midfinder,+1-555-095-2490,0.855,midfinder,0.67
+lumenember60.example,Blake,Reyes,ic,sales,False,1-10,0.831,midfinder,aws;snowflake,0.89,techscan,Account Executive,1.0,input,,,,,,,0.0
+northorbit51.example,Reese,Birch,director,marketing,True,1001-5000,0.844,midfinder,hubspot,0.68,scrapely,Sr. Director of Marketing,1.0,input,reese.birch@northorbit51.example,0.984,premiumgraph,,,,0.47
+helixvertex73.example,Quinn,Foster,c_level,other,False,51-200,0.82,midfinder,segment;shopify;stripe,0.855,techscan,Founder & CEO,0.893,midfinder,quinn.foster@helixvertex73.example,0.673,budgetdata,,,,0.22
+northfable72.example,Jamie,Orr,ic,engineering,False,11-50,0.864,midfinder,salesforce,0.876,techscan,Software Engineer,1.0,input,jamie.orr@northfable72.example,0.676,budgetdata,,,,0.05
+northlumen15.example,Drew,Alder,ic,sales,True,201-1000,0.889,midfinder,hubspot;shopify;snowflake,0.879,techscan,Sales Development Rep,1.0,input,drew.alder@northlumen15.example,0.961,premiumgraph,,,,0.54
+helixbright11.example,Emerson,Jarvis,c_level,other,False,201-1000,0.852,midfinder,hubspot;salesforce,0.895,techscan,Chief Financial Officer,0.939,premiumgraph,emerson.jarvis@helixbright11.example,0.542,scrapely,,,,0.32
+northlumen58.example,Avery,Keene,ic,engineering,False,201-1000,0.817,midfinder,snowflake;zendesk,0.895,techscan,Software Engineer,0.916,premiumgraph,avery.keene@northlumen58.example,0.673,budgetdata,,,,0.4
+lumenember60.example,Reese,Ellis,vp,sales,False,1-10,0.831,midfinder,aws;snowflake,0.89,techscan,VP Sales,1.0,input,reese.ellis@lumenember60.example,0.733,budgetdata,,,,0.05
+orbitlumen32.example,Parker,Foster,manager,operations,False,11-50,0.904,premiumgraph,zendesk,0.839,techscan,Operations Manager,1.0,input,,,,,,,0.0
+fableember42.example,Quinn,Ivers,ic,engineering,False,,,,aws;shopify,0.87,techscan,Software Engineer,0.845,midfinder,quinn.ivers@fableember42.example,0.748,budgetdata,,,,0.26
+northbright6.example,Blake,Reyes,manager,operations,False,51-200,0.878,midfinder,zendesk,0.886,techscan,Operations Manager,1.0,input,,,,,,,0.0
+gamuthelix44.example,Blake,Birch,ic,sales,True,1001-5000,0.885,midfinder,stripe,0.846,techscan,Sales Development Rep,1.0,input,blake.birch@gamuthelix44.example,0.866,midfinder,,,,0.15
+helixbright38.example,Taylor,Reyes,manager,revops,False,11-50,0.816,midfinder,segment;snowflake;stripe,0.821,techscan,RevOps Manager,1.0,input,taylor.reyes@helixbright38.example,0.512,scrapely,,,,0.13
+embernorth1.example,Casey,Cedar,manager,operations,False,11-50,0.892,midfinder,aws;shopify;zendesk,0.812,techscan,Operations Manager,0.503,scrapely,casey.cedar@embernorth1.example,0.725,budgetdata,,,,0.07
+cobaltvertex0.example,Quinn,Reyes,c_level,other,False,51-200,0.99,premiumgraph,hubspot;snowflake;zendesk,0.816,techscan,Chief Financial Officer,1.0,input,,,,,,,0.26
+gamutbright19.example,Blake,Nash,c_level,other,False,51-200,0.598,scrapely,aws;shopify,0.87,techscan,Chief Financial Officer,0.808,midfinder,,,,,,,0.12
+embernorth10.example,Blake,Alder,director,marketing,True,1001-5000,0.846,midfinder,hubspot,0.669,scrapely,Sr. Director of Marketing,1.0,input,blake.alder@embernorth10.example,0.976,premiumgraph,+1-555-933-5765,0.68,budgetdata,0.5
+embercobalt67.example,Jordan,Orr,director,marketing,False,1-10,0.826,midfinder,aws;segment;zendesk,0.841,techscan,Sr. Director of Marketing,1.0,input,jordan.orr@embercobalt67.example,0.598,scrapely,,,,0.18
+cobaltvertex0.example,Blake,Lowe,director,marketing,True,51-200,0.99,premiumgraph,hubspot;snowflake;zendesk,0.816,techscan,Sr. Director of Marketing,1.0,input,blake.lowe@cobaltvertex0.example,0.845,midfinder,+1-555-379-0031,0.803,midfinder,0.45
+helixlumen27.example,Jamie,Pike,director,marketing,True,201-1000,0.975,premiumgraph,hubspot;shopify;stripe,0.899,premiumgraph,Director of Marketing,0.823,midfinder,jamie.pike@helixlumen27.example,0.824,midfinder,,,,0.29
+fableember42.example,Alex,Ellis,ic,sales,True,,,,aws;shopify,0.87,techscan,Account Executive,1.0,input,alex.ellis@fableember42.example,0.849,midfinder,+1-555-263-7143,0.8,midfinder,0.45
+fablecobalt31.example,Parker,Cedar,ic,sales,False,11-50,0.927,premiumgraph,aws;hubspot;snowflake,0.891,techscan,Account Executive,0.799,budgetdata,,,,,,,0.07
+embernorth10.example,Sam,Reyes,manager,operations,False,1001-5000,0.846,midfinder,hubspot,0.669,scrapely,Operations Manager,1.0,input,,,,,,,0.0
+gamutorbit66.example,Harper,Stone,c_level,other,False,1-10,0.849,midfinder,salesforce,0.884,techscan,Founder & CEO,0.716,budgetdata,,,,,,,0.05
+cobaltbright24.example,Blake,Birch,director,marketing,True,51-200,0.99,premiumgraph,aws;snowflake;zendesk,0.809,techscan,Head of Growth,1.0,input,blake.birch@cobaltbright24.example,0.911,premiumgraph,+1-555-600-3355,0.965,premiumgraph,1.3
+northlumen58.example,Reese,Cedar,manager,operations,False,201-1000,0.817,midfinder,snowflake;zendesk,0.895,techscan,Operations Manager,1.0,input,reese.cedar@northlumen58.example,0.73,budgetdata,,,,0.05
+emberfable61.example,Casey,Ivers,ic,engineering,False,201-1000,0.956,premiumgraph,hubspot;zendesk,0.885,techscan,Software Engineer,1.0,input,casey.ivers@emberfable61.example,0.52,scrapely,,,,0.02
+vertexember65.example,Casey,Ivers,,,False,11-50,0.979,premiumgraph,stripe;zendesk,0.9,premiumgraph,,,,,,,,,,0.39
+orbitlumen32.example,Jordan,Ivers,manager,operations,False,11-50,0.904,premiumgraph,zendesk,0.839,techscan,Operations Manager,1.0,input,jordan.ivers@orbitlumen32.example,0.688,budgetdata,,,,0.05
+gamutorbit66.example,Reese,Foster,manager,revops,False,1-10,0.849,midfinder,salesforce,0.884,techscan,Revenue Operations Manager,0.787,budgetdata,,,,,,,0.07
+embernorth10.example,Jamie,Cedar,c_level,other,False,1001-5000,0.846,midfinder,hubspot,0.669,scrapely,Chief Financial Officer,1.0,input,jamie.cedar@embernorth10.example,0.7,budgetdata,,,,0.07
+helixorbit20.example,Jamie,Keene,director,marketing,False,11-50,0.834,midfinder,segment;shopify;zendesk,0.845,techscan,Director of Marketing,0.706,budgetdata,jamie.keene@helixorbit20.example,0.765,budgetdata,,,,0.12
+orbitlumen32.example,Avery,Marsh,c_level,other,False,11-50,0.904,premiumgraph,zendesk,0.839,techscan,Chief Financial Officer,1.0,input,avery.marsh@orbitlumen32.example,0.533,scrapely,,,,0.02
+emberember7.example,Avery,Ivers,vp,sales,True,51-200,0.884,midfinder,salesforce;snowflake,0.853,techscan,VP Sales,1.0,input,avery.ivers@emberember7.example,0.857,midfinder,+1-555-739-2649,0.913,premiumgraph,1.07
+cobaltvertex41.example,Avery,Ivers,ic,engineering,False,11-50,0.805,midfinder,shopify,0.647,scrapely,Senior Data Engineer,0.576,scrapely,,,,,,,0.02
+fablecobalt55.example,Jamie,Reyes,vp,sales,True,1001-5000,0.874,midfinder,salesforce;snowflake,0.833,techscan,VP Sales,1.0,input,jamie.reyes@fablecobalt55.example,0.899,midfinder,,,,0.15
+orbitember53.example,Taylor,Stone,ic,engineering,False,1-10,0.845,midfinder,,,,Software Engineer,1.0,input,taylor.stone@orbitember53.example,0.696,budgetdata,,,,0.05
+helixvertex73.example,Skyler,Orr,vp,sales,True,51-200,0.82,midfinder,segment;shopify;stripe,0.855,techscan,VP of Sales,0.809,midfinder,skyler.orr@helixvertex73.example,0.947,premiumgraph,+1-555-451-6554,0.93,premiumgraph,1.44
+fablebright48.example,Rowan,Stone,vp,sales,True,51-200,0.827,midfinder,aws;salesforce,0.874,techscan,VP Sales,1.0,input,rowan.stone@fablebright48.example,0.889,midfinder,,,,0.36
+gamutvertex21.example,Taylor,Grove,director,marketing,False,1-10,0.85,midfinder,snowflake,0.903,premiumgraph,Head of Growth,1.0,input,taylor.grove@gamutvertex21.example,0.765,budgetdata,,,,0.05
+vertexbright69.example,Parker,Ellis,ic,engineering,False,1-10,0.924,premiumgraph,salesforce;segment,0.848,techscan,Software Engineer,1.0,input,parker.ellis@vertexbright69.example,0.509,scrapely,,,,0.3
+northbright43.example,Sam,Dunn,director,marketing,True,1001-5000,0.813,midfinder,snowflake;stripe,0.821,techscan,Head of Growth,1.0,input,sam.dunn@northbright43.example,0.852,midfinder,,,,0.15
+brightvertex62.example,Rowan,Pike,director,marketing,True,201-1000,0.815,midfinder,hubspot,0.85,techscan,Sr. Director of Marketing,1.0,input,rowan.pike@brightvertex62.example,0.867,midfinder,+1-555-397-2056,0.866,midfinder,0.64
+helixnorth26.example,Avery,Birch,ic,sales,True,51-200,0.841,midfinder,snowflake,0.806,techscan,Sales Development Rep,1.0,input,avery.birch@helixnorth26.example,0.891,midfinder,,,,0.15
+vertexorbit17.example,Harper,Reyes,ic,engineering,False,1001-5000,0.87,midfinder,hubspot;segment;snowflake,0.823,techscan,Senior Data Engineer,0.855,midfinder,harper.reyes@vertexorbit17.example,0.723,budgetdata,,,,0.24
+embernorth10.example,Casey,Dunn,director,marketing,True,1001-5000,0.846,midfinder,hubspot,0.669,scrapely,Head of Growth,0.803,midfinder,casey.dunn@embernorth10.example,0.97,premiumgraph,+1-555-926-1313,0.831,midfinder,0.82
+vertexember65.example,Alex,Orr,vp,sales,False,11-50,0.979,premiumgraph,stripe;zendesk,0.9,premiumgraph,VP Sales,1.0,input,alex.orr@vertexember65.example,0.754,budgetdata,,,,0.05
+cobaltnorth54.example,Avery,Marsh,manager,operations,False,1-10,0.986,premiumgraph,shopify,0.832,techscan,Operations Manager,0.51,scrapely,avery.marsh@cobaltnorth54.example,0.501,scrapely,,,,0.04
+gamuthelix44.example,Emerson,Cedar,manager,revops,True,1001-5000,0.885,midfinder,stripe,0.846,techscan,RevOps Manager,1.0,input,emerson.cedar@gamuthelix44.example,0.882,midfinder,+1-555-241-7413,0.854,midfinder,0.45
+vertexvertex70.example,Drew,Hale,manager,revops,True,51-200,0.854,midfinder,shopify;stripe,0.844,techscan,RevOps Manager,1.0,input,drew.hale@vertexvertex70.example,0.811,midfinder,,,,0.2
+fablegamut28.example,Quinn,Marsh,c_level,other,False,11-50,0.852,midfinder,shopify;snowflake,0.817,techscan,Chief Financial Officer,1.0,input,quinn.marsh@fablegamut28.example,0.757,budgetdata,,,,0.07
+embervertex40.example,Alex,Birch,c_level,other,False,201-1000,0.887,midfinder,salesforce;zendesk,0.856,techscan,CEO & Founder,1.0,input,alex.birch@embervertex40.example,0.762,budgetdata,,,,0.05
+lumenhelix12.example,Reese,Alder,ic,sales,True,51-200,0.914,premiumgraph,aws;salesforce;shopify,0.811,techscan,Account Executive,0.837,midfinder,reese.alder@lumenhelix12.example,0.894,midfinder,+1-555-623-2914,0.845,midfinder,0.72
+northfable72.example,Riley,Ellis,director,marketing,False,11-50,0.864,midfinder,salesforce,0.876,techscan,Sr. Director of Marketing,1.0,input,riley.ellis@northfable72.example,0.754,budgetdata,,,,0.05
+lumenhelix12.example,Rowan,Birch,c_level,other,False,51-200,0.914,premiumgraph,aws;salesforce;shopify,0.811,techscan,Chief Financial Officer,1.0,input,rowan.birch@lumenhelix12.example,0.705,budgetdata,,,,0.05
+fablecobalt31.example,Jamie,Ellis,manager,revops,False,11-50,0.927,premiumgraph,aws;hubspot;snowflake,0.891,techscan,RevOps Manager,1.0,input,jamie.ellis@fablecobalt31.example,0.723,budgetdata,,,,0.05
+fablebright48.example,Skyler,Marsh,c_level,other,False,51-200,0.827,midfinder,aws;salesforce,0.874,techscan,CEO & Founder,1.0,input,skyler.marsh@fablebright48.example,0.71,budgetdata,,,,0.07
+helixorbit20.example,Morgan,Alder,director,marketing,False,11-50,0.834,midfinder,segment;shopify;zendesk,0.845,techscan,Head of Growth,1.0,input,,,,,,,0.0
+embervertex40.example,Drew,Nash,ic,engineering,False,201-1000,0.887,midfinder,salesforce;zendesk,0.856,techscan,Software Engineer,1.0,input,,,,,,,0.0
+brighthelix22.example,Morgan,Pike,vp,sales,True,201-1000,0.815,midfinder,aws;salesforce;snowflake,0.884,techscan,VP Sales,1.0,input,morgan.pike@brighthelix22.example,0.903,midfinder,+1-555-111-8303,0.802,midfinder,0.69
+gamuthelix44.example,Rowan,Lowe,manager,revops,True,1001-5000,0.885,midfinder,stripe,0.846,techscan,RevOps Manager,1.0,input,rowan.lowe@gamuthelix44.example,0.865,midfinder,+1-555-971-4807,0.902,premiumgraph,1.22
+emberember7.example,Taylor,Alder,ic,sales,True,51-200,0.884,midfinder,salesforce;snowflake,0.853,techscan,Account Executive,1.0,input,taylor.alder@emberember7.example,0.946,premiumgraph,,,,0.45
+brightorbit49.example,Skyler,Orr,ic,sales,False,11-50,0.79,budgetdata,hubspot;zendesk,0.885,techscan,Sales Development Rep,1.0,input,skyler.orr@brightorbit49.example,0.719,budgetdata,,,,0.07
+northlumen15.example,Casey,Alder,ic,engineering,False,201-1000,0.889,midfinder,hubspot;shopify;snowflake,0.879,techscan,Software Engineer,1.0,input,casey.alder@northlumen15.example,0.691,budgetdata,,,,0.07
+brightorbit49.example,Drew,Pike,manager,revops,False,11-50,0.79,budgetdata,hubspot;zendesk,0.885,techscan,Revenue Operations Manager,0.718,budgetdata,,,,,,,0.05
+embernorth10.example,Reese,Ellis,vp,sales,True,1001-5000,0.846,midfinder,hubspot,0.669,scrapely,VP Sales,1.0,input,reese.ellis@embernorth10.example,0.859,midfinder,+1-555-120-0429,0.901,premiumgraph,1.4
+lumenlumen71.example,Alex,Cedar,vp,sales,True,1001-5000,0.783,budgetdata,shopify;stripe,0.831,techscan,VP of Sales,0.828,midfinder,alex.cedar@lumenlumen71.example,0.825,midfinder,+1-555-728-3044,0.807,midfinder,0.75
+helixbright38.example,Parker,Ivers,manager,revops,False,11-50,0.816,midfinder,segment;snowflake;stripe,0.821,techscan,Revenue Operations Manager,0.785,budgetdata,parker.ivers@helixbright38.example,0.567,scrapely,,,,0.07
+orbitember53.example,Sam,Birch,c_level,other,False,1-10,0.845,midfinder,,,,Chief Financial Officer,1.0,input,sam.birch@orbitember53.example,0.58,scrapely,,,,0.02
+fablebright50.example,Jordan,Nash,manager,revops,False,1-10,0.829,midfinder,salesforce,0.895,techscan,RevOps Manager,1.0,input,jordan.nash@fablebright50.example,0.769,budgetdata,,,,0.05
+fableember63.example,Emerson,Hale,manager,operations,False,1001-5000,0.858,midfinder,snowflake;zendesk,0.879,techscan,Operations Manager,1.0,input,emerson.hale@fableember63.example,0.599,scrapely,,,,0.02
+northgamut16.example,Harper,Birch,manager,operations,False,1001-5000,0.815,midfinder,,,,Operations Manager,1.0,input,harper.birch@northgamut16.example,0.675,budgetdata,,,,0.07
+helixorbit20.example,Harper,Foster,ic,sales,False,11-50,0.834,midfinder,segment;shopify;zendesk,0.845,techscan,Account Executive,1.0,input,,,,,,,0.0
+northfable72.example,Reese,Nash,ic,sales,False,11-50,0.864,midfinder,salesforce,0.876,techscan,Sales Development Rep,1.0,input,reese.nash@northfable72.example,0.719,budgetdata,,,,0.07
+fableember63.example,Skyler,Keene,ic,engineering,False,1001-5000,0.858,midfinder,snowflake;zendesk,0.879,techscan,Software Engineer,1.0,input,skyler.keene@fableember63.example,0.746,budgetdata,,,,0.05
+orbitorbit74.example,Quinn,Ellis,ic,sales,True,1001-5000,0.941,premiumgraph,snowflake;zendesk,0.829,techscan,Account Executive,0.923,premiumgraph,quinn.ellis@orbitorbit74.example,0.99,premiumgraph,+1-555-328-4246,0.792,midfinder,1.12
+vertexlumen33.example,Avery,Birch,manager,operations,False,1-10,0.839,midfinder,shopify,0.9,techscan,Operations Manager,1.0,input,avery.birch@vertexlumen33.example,0.71,budgetdata,,,,0.05
+brightgamut2.example,Casey,Reyes,manager,revops,True,1001-5000,0.909,premiumgraph,hubspot;shopify;zendesk,0.821,techscan,Revenue Operations Manager,0.802,midfinder,casey.reyes@brightgamut2.example,0.888,midfinder,+1-555-459-0779,0.856,midfinder,0.64
+northbright43.example,Emerson,Cedar,ic,engineering,False,1001-5000,0.813,midfinder,snowflake;stripe,0.821,techscan,Software Engineer,1.0,input,emerson.cedar@northbright43.example,0.726,budgetdata,,,,0.05
+fableember63.example,Emerson,Pike,director,marketing,True,1001-5000,0.858,midfinder,snowflake;zendesk,0.879,techscan,Sr. Director of Marketing,1.0,input,emerson.pike@fableember63.example,0.888,midfinder,+1-555-818-6170,0.684,budgetdata,0.32
+embercobalt67.example,Jamie,Dunn,vp,sales,False,1-10,0.826,midfinder,aws;segment;zendesk,0.841,techscan,VP Sales,1.0,input,jamie.dunn@embercobalt67.example,0.523,scrapely,,,,0.02
+embervertex18.example,Sam,Reyes,ic,sales,True,1001-5000,0.933,premiumgraph,zendesk,0.639,scrapely,Account Executive,0.813,midfinder,sam.reyes@embervertex18.example,0.887,midfinder,+1-555-196-6676,0.963,premiumgraph,1.34
+gamutorbit64.example,Emerson,Cedar,ic,sales,False,1-10,0.869,midfinder,salesforce,0.855,techscan,Account Executive,0.73,budgetdata,emerson.cedar@gamutorbit64.example,0.71,budgetdata,,,,0.1
+fablebright48.example,Riley,Ivers,vp,sales,True,51-200,0.827,midfinder,aws;salesforce,0.874,techscan,VP Sales,1.0,input,riley.ivers@fablebright48.example,0.851,midfinder,+1-555-959-4215,0.927,premiumgraph,1.1
+fablehelix30.example,Parker,Cedar,c_level,other,False,11-50,0.806,midfinder,aws;stripe,0.871,techscan,CEO & Founder,1.0,input,,,,,,,0.14
+brightvertex62.example,Sam,Keene,director,marketing,True,201-1000,0.815,midfinder,hubspot,0.85,techscan,Director of Marketing,0.814,midfinder,sam.keene@brightvertex62.example,0.961,premiumgraph,+1-555-983-3903,0.953,premiumgraph,1.61
+helixvertex73.example,Quinn,Grove,ic,engineering,False,51-200,0.82,midfinder,segment;shopify;stripe,0.855,techscan,Software Engineer,0.837,midfinder,quinn.grove@helixvertex73.example,0.722,budgetdata,,,,0.19
+emberember7.example,Casey,Cedar,director,marketing,True,51-200,0.884,midfinder,salesforce;snowflake,0.853,techscan,Head of Growth,1.0,input,casey.cedar@emberember7.example,0.876,midfinder,+1-555-577-2782,0.827,midfinder,0.45
+helixlumen27.example,Quinn,Reyes,ic,engineering,False,201-1000,0.975,premiumgraph,hubspot;shopify;stripe,0.899,premiumgraph,Software Engineer,1.0,input,quinn.reyes@helixlumen27.example,0.713,budgetdata,,,,0.05
+vertexember65.example,Alex,Lowe,ic,engineering,False,11-50,0.979,premiumgraph,stripe;zendesk,0.9,premiumgraph,Senior Data Engineer,0.731,budgetdata,alex.lowe@vertexember65.example,0.716,budgetdata,,,,0.12
+gamutlumen5.example,Sam,Ellis,ic,engineering,False,1001-5000,0.887,midfinder,shopify;stripe,0.884,techscan,Software Engineer,1.0,input,sam.ellis@gamutlumen5.example,0.681,budgetdata,,,,0.07
+northfable72.example,Morgan,Alder,c_level,other,False,11-50,0.864,midfinder,salesforce,0.876,techscan,Chief Financial Officer,1.0,input,morgan.alder@northfable72.example,0.751,budgetdata,,,,0.07
+brightvertex62.example,Jordan,Marsh,director,marketing,True,201-1000,0.815,midfinder,hubspot,0.85,techscan,Sr. Director of Marketing,1.0,input,jordan.marsh@brightvertex62.example,0.881,midfinder,,,,0.2
+northgamut16.example,Riley,Pike,c_level,other,False,1001-5000,0.815,midfinder,,,,CEO & Founder,1.0,input,riley.pike@northgamut16.example,0.688,budgetdata,,,,0.05
+brighthelix22.example,Jamie,Ellis,manager,revops,True,201-1000,0.815,midfinder,aws;salesforce;snowflake,0.884,techscan,Revenue Operations Manager,0.879,midfinder,jamie.ellis@brighthelix22.example,0.953,premiumgraph,+1-555-283-2112,0.902,premiumgraph,1.42
+brightcobalt3.example,Avery,Pike,manager,operations,False,,,,aws;stripe,0.858,techscan,Operations Manager,0.858,midfinder,,,,,,,0.17
+cobaltnorth54.example,Avery,Stone,c_level,other,False,1-10,0.986,premiumgraph,shopify,0.832,techscan,CEO & Founder,1.0,input,,,,,,,0.0
+emberember7.example,Emerson,Alder,manager,operations,False,51-200,0.884,midfinder,salesforce;snowflake,0.853,techscan,Operations Manager,1.0,input,emerson.alder@emberember7.example,0.555,scrapely,,,,0.02
+orbitorbit74.example,Morgan,Hale,ic,engineering,False,1001-5000,0.941,premiumgraph,snowflake;zendesk,0.829,techscan,Software Engineer,1.0,input,,,,,,,0.0
+lumenhelix12.example,Casey,Pike,director,marketing,True,51-200,0.914,premiumgraph,aws;salesforce;shopify,0.811,techscan,Director of Marketing,0.875,midfinder,casey.pike@lumenhelix12.example,0.979,premiumgraph,,,,0.59
+embercobalt29.example,Sam,Alder,vp,sales,True,201-1000,0.895,midfinder,salesforce;shopify;snowflake,0.889,premiumgraph,VP of Sales,0.53,scrapely,sam.alder@embercobalt29.example,0.874,midfinder,+1-555-646-5419,0.824,midfinder,0.49
+embercobalt29.example,Blake,Grove,c_level,other,False,201-1000,0.895,midfinder,salesforce;shopify;snowflake,0.889,premiumgraph,Chief Financial Officer,1.0,input,,,,,,,0.0
+fablebright50.example,Skyler,Marsh,c_level,other,False,1-10,0.829,midfinder,salesforce,0.895,techscan,Chief Financial Officer,1.0,input,skyler.marsh@fablebright50.example,0.675,budgetdata,,,,0.05
+brightfable57.example,Taylor,Nash,ic,sales,True,51-200,0.827,midfinder,stripe,0.827,techscan,Sales Development Rep,1.0,input,taylor.nash@brightfable57.example,0.945,premiumgraph,,,,0.4
+gamutorbit64.example,Casey,Grove,director,marketing,False,1-10,0.869,midfinder,salesforce,0.855,techscan,Sr. Director of Marketing,1.0,input,,,,,,,0.0
+cobaltnorth54.example,Taylor,Cedar,ic,engineering,False,1-10,0.986,premiumgraph,shopify,0.832,techscan,Software Engineer,1.0,input,taylor.cedar@cobaltnorth54.example,0.769,budgetdata,,,,0.05
+northbright6.example,Sam,Alder,director,marketing,True,51-200,0.878,midfinder,zendesk,0.886,techscan,Director of Marketing,0.944,premiumgraph,sam.alder@northbright6.example,0.82,midfinder,+1-555-265-9582,0.898,premiumgraph,1.4
+fablecobalt36.example,Sam,Alder,director,marketing,True,201-1000,0.934,premiumgraph,aws;shopify;snowflake,0.869,techscan,Sr. Director of Marketing,1.0,input,sam.alder@fablecobalt36.example,0.819,midfinder,+1-555-348-4979,0.977,premiumgraph,1.1
+brightgamut2.example,Alex,Pike,c_level,other,False,1001-5000,0.909,premiumgraph,hubspot;shopify;zendesk,0.821,techscan,Chief Financial Officer,1.0,input,alex.pike@brightgamut2.example,0.702,budgetdata,,,,0.05
+lumenhelix12.example,Jordan,Ellis,manager,operations,False,51-200,0.914,premiumgraph,aws;salesforce;shopify,0.811,techscan,Operations Manager,1.0,input,,,,,,,0.0
+embervertex40.example,Jamie,Cedar,c_level,other,False,201-1000,0.887,midfinder,salesforce;zendesk,0.856,techscan,Chief Financial Officer,1.0,input,,,,,,,0.0
+helixorbit20.example,Skyler,Lowe,manager,revops,False,11-50,0.834,midfinder,segment;shopify;zendesk,0.845,techscan,RevOps Manager,1.0,input,skyler.lowe@helixorbit20.example,0.757,budgetdata,,,,0.07
+gamutorbit64.example,Quinn,Grove,manager,revops,False,1-10,0.869,midfinder,salesforce,0.855,techscan,RevOps Manager,1.0,input,,,,,,,0.0
+cobaltcobalt45.example,Jamie,Jarvis,c_level,other,False,51-200,0.961,premiumgraph,snowflake;zendesk,0.936,premiumgraph,Chief Financial Officer,1.0,input,jamie.jarvis@cobaltcobalt45.example,0.745,budgetdata,,,,0.45
+vertexbright69.example,Alex,Foster,vp,sales,False,1-10,0.924,premiumgraph,salesforce;segment,0.848,techscan,VP of Sales,0.706,budgetdata,alex.foster@vertexbright69.example,0.595,scrapely,,,,0.07
+gamutbright25.example,Emerson,Cedar,manager,revops,False,11-50,0.915,premiumgraph,segment;shopify;stripe,0.809,techscan,RevOps Manager,1.0,input,,,,,,,0.0
+helixfable52.example,Harper,Foster,ic,sales,False,11-50,0.845,midfinder,segment;stripe;zendesk,0.815,techscan,Account Executive,1.0,input,harper.foster@helixfable52.example,0.674,budgetdata,,,,0.07
+embercobalt67.example,Morgan,Nash,vp,sales,False,1-10,0.826,midfinder,aws;segment;zendesk,0.841,techscan,VP Sales,1.0,input,,,,,,,0.0
+helixbright11.example,Casey,Dunn,vp,sales,True,201-1000,0.852,midfinder,hubspot;salesforce,0.895,techscan,VP Sales,1.0,input,casey.dunn@helixbright11.example,0.902,premiumgraph,+1-555-816-4074,0.865,midfinder,0.72
+northgamut16.example,Alex,Ellis,director,marketing,True,1001-5000,0.815,midfinder,,,,Head of Growth,1.0,input,alex.ellis@northgamut16.example,0.931,premiumgraph,+1-555-741-6963,0.814,midfinder,0.77
+gamutbright25.example,Quinn,Ellis,ic,engineering,False,11-50,0.915,premiumgraph,segment;shopify;stripe,0.809,techscan,Software Engineer,1.0,input,quinn.ellis@gamutbright25.example,0.75,budgetdata,,,,0.05
+brightgamut2.example,Harper,Stone,c_level,other,False,1001-5000,0.909,premiumgraph,hubspot;shopify;zendesk,0.821,techscan,Chief Financial Officer,1.0,input,,,,,,,0.0
+cobaltnorth54.example,Jordan,Ivers,director,marketing,False,1-10,0.986,premiumgraph,shopify,0.832,techscan,Sr. Director of Marketing,1.0,input,,,,,,,0.0
+embernorth1.example,Sam,Stone,director,marketing,False,11-50,0.892,midfinder,aws;shopify;zendesk,0.812,techscan,Head of Growth,0.569,scrapely,sam.stone@embernorth1.example,0.684,budgetdata,,,,0.09
+fableorbit37.example,Reese,Lowe,ic,sales,False,1-10,0.877,midfinder,snowflake,0.846,techscan,Sales Development Rep,1.0,input,reese.lowe@fableorbit37.example,0.749,budgetdata,,,,0.05
+lumenember60.example,Riley,Ellis,,,False,1-10,0.831,midfinder,aws;snowflake,0.89,techscan,,,,riley.ellis@lumenember60.example,0.585,scrapely,,,,0.02
+fablecobalt31.example,Sam,Pike,ic,engineering,False,11-50,0.927,premiumgraph,aws;hubspot;snowflake,0.891,techscan,Software Engineer,1.0,input,,,,,,,0.0
+orbitlumen32.example,Jamie,Ellis,c_level,other,False,11-50,0.904,premiumgraph,zendesk,0.839,techscan,Chief Financial Officer,0.781,budgetdata,jamie.ellis@orbitlumen32.example,0.572,scrapely,,,,0.07
+gamutbright19.example,Reese,Ellis,c_level,other,False,51-200,0.598,scrapely,aws;shopify,0.87,techscan,Chief Financial Officer,1.0,input,,,,,,,0.0
+northbright43.example,Emerson,Nash,director,marketing,True,1001-5000,0.813,midfinder,snowflake;stripe,0.821,techscan,Head of Growth,1.0,input,emerson.nash@northbright43.example,0.885,midfinder,+1-555-324-3456,0.863,midfinder,0.57
+fableember63.example,Taylor,Keene,ic,engineering,False,1001-5000,0.858,midfinder,snowflake;zendesk,0.879,techscan,Senior Data Engineer,0.868,midfinder,taylor.keene@fableember63.example,0.753,budgetdata,,,,0.17
+embercobalt29.example,Rowan,Pike,c_level,other,False,201-1000,0.895,midfinder,salesforce;shopify;snowflake,0.889,premiumgraph,Chief Financial Officer,1.0,input,rowan.pike@embercobalt29.example,0.699,budgetdata,,,,0.07
+northfable72.example,Casey,Ivers,director,marketing,False,11-50,0.864,midfinder,salesforce,0.876,techscan,Sr. Director of Marketing,1.0,input,casey.ivers@northfable72.example,0.674,budgetdata,,,,0.05
+brightorbit49.example,Avery,Hale,ic,sales,False,11-50,0.79,budgetdata,hubspot;zendesk,0.885,techscan,Account Executive,0.774,budgetdata,,,,,,,0.05
+embernorth10.example,Morgan,Keene,c_level,other,False,1001-5000,0.846,midfinder,hubspot,0.669,scrapely,CEO & Founder,1.0,input,morgan.keene@embernorth10.example,0.752,budgetdata,,,,0.05
+brightcobalt3.example,Harper,Jarvis,ic,sales,True,,,,aws;stripe,0.858,techscan,Sales Development Rep,1.0,input,harper.jarvis@brightcobalt3.example,0.88,midfinder,+1-555-356-0059,0.9,premiumgraph,1.4
+brightgamut39.example,Casey,Hale,c_level,other,False,201-1000,0.832,midfinder,aws;shopify,0.893,premiumgraph,CEO & Founder,1.0,input,casey.hale@brightgamut39.example,0.56,scrapely,,,,0.29
+helixnorth26.example,Skyler,Ivers,c_level,other,False,51-200,0.841,midfinder,snowflake,0.806,techscan,Chief Financial Officer,1.0,input,,,,,,,0.0
+fablecobalt36.example,Morgan,Ellis,vp,sales,True,201-1000,0.934,premiumgraph,aws;shopify;snowflake,0.869,techscan,VP of Sales,0.815,midfinder,morgan.ellis@fablecobalt36.example,0.961,premiumgraph,+1-555-042-0350,0.811,midfinder,0.92
+cobaltvertex0.example,Morgan,Nash,ic,engineering,False,51-200,0.99,premiumgraph,hubspot;snowflake;zendesk,0.816,techscan,Senior Data Engineer,0.895,midfinder,morgan.nash@cobaltvertex0.example,0.684,budgetdata,,,,0.22
+fablehelix47.example,Morgan,Jarvis,director,marketing,True,51-200,0.913,premiumgraph,hubspot;stripe,0.876,techscan,Head of Growth,1.0,input,morgan.jarvis@fablehelix47.example,0.893,midfinder,+1-555-089-4915,0.95,premiumgraph,1.45
+fableorbit37.example,Harper,Ivers,ic,sales,False,1-10,0.877,midfinder,snowflake,0.846,techscan,Sales Development Rep,1.0,input,,,,,,,0.0
+vertexbright69.example,Sam,Marsh,vp,sales,False,1-10,0.924,premiumgraph,salesforce;segment,0.848,techscan,VP Sales,1.0,input,sam.marsh@vertexbright69.example,0.702,budgetdata,,,,0.05
+helixorbit20.example,Avery,Nash,vp,sales,False,11-50,0.834,midfinder,segment;shopify;zendesk,0.845,techscan,VP Sales,1.0,input,,,,,,,0.0
+northhelix13.example,Drew,Ivers,director,marketing,True,201-1000,0.859,midfinder,segment;stripe,0.867,techscan,Head of Growth,1.0,input,drew.ivers@northhelix13.example,0.99,premiumgraph,+1-555-916-0749,0.906,premiumgraph,1.35
+embernorth1.example,Skyler,Orr,manager,operations,False,11-50,0.892,midfinder,aws;shopify;zendesk,0.812,techscan,Operations Manager,1.0,input,skyler.orr@embernorth1.example,0.681,budgetdata,,,,0.07
+fablebright50.example,Skyler,Cedar,manager,operations,False,1-10,0.829,midfinder,salesforce,0.895,techscan,Operations Manager,1.0,input,skyler.cedar@fablebright50.example,0.577,scrapely,,,,0.02
+vertexlumen33.example,Parker,Stone,,,False,1-10,0.839,midfinder,shopify,0.9,techscan,,,,parker.stone@vertexlumen33.example,0.705,budgetdata,,,,0.05
+gamutbright25.example,Skyler,Marsh,ic,sales,False,11-50,0.915,premiumgraph,segment;shopify;stripe,0.809,techscan,Account Executive,1.0,input,skyler.marsh@gamutbright25.example,0.73,budgetdata,,,,0.07
+brighthelix22.example,Avery,Lowe,vp,sales,True,201-1000,0.815,midfinder,aws;salesforce;snowflake,0.884,techscan,VP Sales,1.0,input,avery.lowe@brighthelix22.example,0.881,midfinder,+1-555-896-0537,0.903,premiumgraph,1.07
+helixfable52.example,Jamie,Marsh,vp,sales,False,11-50,0.845,midfinder,segment;stripe;zendesk,0.815,techscan,VP Sales,1.0,input,jamie.marsh@helixfable52.example,0.745,budgetdata,,,,0.05
+orbitgamut35.example,Casey,Marsh,vp,sales,True,201-1000,0.833,midfinder,shopify;snowflake;stripe,0.835,techscan,VP Sales,1.0,input,casey.marsh@orbitgamut35.example,0.841,midfinder,+1-555-194-8445,0.771,midfinder,0.61
+gamutorbit66.example,Harper,Nash,c_level,other,False,1-10,0.849,midfinder,salesforce,0.884,techscan,CEO & Founder,1.0,input,,,,,,,0.0
+helixember14.example,Taylor,Cedar,c_level,other,False,51-200,0.853,midfinder,hubspot;salesforce;stripe,0.839,techscan,Chief Financial Officer,0.892,midfinder,taylor.cedar@helixember14.example,0.573,scrapely,,,,0.14
+embercobalt29.example,Jordan,Reyes,ic,engineering,False,201-1000,0.895,midfinder,salesforce;shopify;snowflake,0.889,premiumgraph,Software Engineer,0.836,midfinder,jordan.reyes@embercobalt29.example,0.719,budgetdata,,,,0.21
+brighthelix34.example,Parker,Jarvis,vp,sales,True,,,,stripe,0.858,techscan,VP Sales,1.0,input,parker.jarvis@brighthelix34.example,0.85,midfinder,,,,0.19
+embernorth10.example,Avery,Hale,manager,revops,True,1001-5000,0.846,midfinder,hubspot,0.669,scrapely,RevOps Manager,1.0,input,avery.hale@embernorth10.example,0.959,premiumgraph,+1-555-816-1330,0.784,midfinder,0.77
+lumenhelix12.example,Riley,Birch,manager,operations,False,51-200,0.914,premiumgraph,aws;salesforce;shopify,0.811,techscan,Operations Manager,0.869,midfinder,riley.birch@lumenhelix12.example,0.736,budgetdata,,,,0.19
+vertexember65.example,Avery,Dunn,c_level,other,False,11-50,0.979,premiumgraph,stripe;zendesk,0.9,premiumgraph,Chief Financial Officer,1.0,input,avery.dunn@vertexember65.example,0.748,budgetdata,,,,0.05
+helixlumen23.example,Alex,Keene,c_level,other,False,201-1000,0.842,midfinder,hubspot,0.824,techscan,Chief Financial Officer,1.0,input,alex.keene@helixlumen23.example,0.693,budgetdata,,,,0.05
+orbitember53.example,Jamie,Ellis,,,False,1-10,0.845,midfinder,,,,,,,jamie.ellis@orbitember53.example,0.676,budgetdata,,,,0.05
+brightgamut9.example,Parker,Nash,c_level,other,False,201-1000,0.931,premiumgraph,snowflake;stripe,0.676,scrapely,CEO & Founder,1.0,input,parker.nash@brightgamut9.example,0.695,budgetdata,,,,0.05
+cobaltcobalt45.example,Parker,Lowe,director,marketing,True,51-200,0.961,premiumgraph,snowflake;zendesk,0.936,premiumgraph,Head of Growth,0.848,midfinder,parker.lowe@cobaltcobalt45.example,0.825,midfinder,+1-555-256-2308,0.89,premiumgraph,1.19
+gamutorbit64.example,Quinn,Hale,c_level,other,False,1-10,0.869,midfinder,salesforce,0.855,techscan,Chief Financial Officer,1.0,input,quinn.hale@gamutorbit64.example,0.67,budgetdata,,,,0.07
+helixlumen23.example,Reese,Alder,vp,sales,True,201-1000,0.842,midfinder,hubspot,0.824,techscan,VP Sales,1.0,input,reese.alder@helixlumen23.example,0.912,premiumgraph,+1-555-593-9986,0.795,midfinder,0.7
+emberlumen68.example,Taylor,Jarvis,,,False,1-10,0.826,midfinder,aws;salesforce;shopify,0.873,techscan,,,,taylor.jarvis@emberlumen68.example,0.764,budgetdata,,,,0.21
+fablecobalt31.example,Avery,Nash,manager,operations,False,11-50,0.927,premiumgraph,aws;hubspot;snowflake,0.891,techscan,Operations Manager,1.0,input,,,,,,,0.0
+brightfable57.example,Emerson,Reyes,vp,sales,True,51-200,0.827,midfinder,stripe,0.827,techscan,VP of Sales,0.986,premiumgraph,emerson.reyes@brightfable57.example,0.832,midfinder,+1-555-145-0926,0.811,midfinder,0.8
+helixbright11.example,Reese,Reyes,ic,engineering,False,201-1000,0.852,midfinder,hubspot;salesforce,0.895,techscan,Software Engineer,1.0,input,reese.reyes@helixbright11.example,0.71,budgetdata,,,,0.05
+northgamut16.example,Avery,Birch,director,marketing,True,1001-5000,0.815,midfinder,,,,Head of Growth,1.0,input,avery.birch@northgamut16.example,0.902,midfinder,+1-555-121-4591,0.798,midfinder,0.45
+brightfable57.example,Reese,Birch,director,marketing,True,51-200,0.827,midfinder,stripe,0.827,techscan,Sr. Director of Marketing,1.0,input,reese.birch@brightfable57.example,0.841,midfinder,+1-555-881-8756,0.714,budgetdata,0.3
+embercobalt29.example,Casey,Reyes,c_level,other,False,201-1000,0.895,midfinder,salesforce;shopify;snowflake,0.889,premiumgraph,Chief Financial Officer,0.99,premiumgraph,casey.reyes@embercobalt29.example,0.726,budgetdata,,,,0.4
+fablebright50.example,Alex,Foster,manager,operations,False,1-10,0.829,midfinder,salesforce,0.895,techscan,Operations Manager,0.749,budgetdata,,,,,,,0.05
+brightorbit49.example,Avery,Nash,c_level,other,False,11-50,0.79,budgetdata,hubspot;zendesk,0.885,techscan,Chief Financial Officer,1.0,input,avery.nash@brightorbit49.example,0.565,scrapely,,,,0.02
+brightvertex62.example,Emerson,Dunn,director,marketing,True,201-1000,0.815,midfinder,hubspot,0.85,techscan,Sr. Director of Marketing,1.0,input,emerson.dunn@brightvertex62.example,0.902,midfinder,+1-555-545-4758,0.969,premiumgraph,1.15
+gamutorbit66.example,Morgan,Orr,c_level,other,False,1-10,0.849,midfinder,salesforce,0.884,techscan,Chief Financial Officer,1.0,input,morgan.orr@gamutorbit66.example,0.694,budgetdata,,,,0.05
+brightlumen8.example,Skyler,Ivers,,,False,11-50,0.853,midfinder,stripe,0.81,techscan,,,,,,,,,,0.0
+brightfable57.example,Avery,Marsh,director,marketing,True,51-200,0.827,midfinder,stripe,0.827,techscan,Sr. Director of Marketing,1.0,input,avery.marsh@brightfable57.example,0.933,premiumgraph,+1-555-932-1092,0.856,midfinder,0.7
+orbitember53.example,Jamie,Hale,director,marketing,False,1-10,0.845,midfinder,,,,Sr. Director of Marketing,1.0,input,jamie.hale@orbitember53.example,0.739,budgetdata,,,,0.05
+orbitvertex59.example,Rowan,Orr,manager,revops,True,1001-5000,0.87,midfinder,shopify;zendesk,0.843,techscan,RevOps Manager,1.0,input,rowan.orr@orbitvertex59.example,0.883,midfinder,+1-555-526-3766,0.907,premiumgraph,1.05
+brightgamut39.example,Sam,Marsh,manager,revops,True,201-1000,0.832,midfinder,aws;shopify,0.893,premiumgraph,RevOps Manager,1.0,input,sam.marsh@brightgamut39.example,0.877,midfinder,+1-555-488-2655,0.93,premiumgraph,1.07
+cobaltnorth54.example,Morgan,Stone,director,marketing,False,1-10,0.986,premiumgraph,shopify,0.832,techscan,Sr. Director of Marketing,1.0,input,morgan.stone@cobaltnorth54.example,0.542,scrapely,,,,0.02
+fablecobalt31.example,Casey,Ivers,,,False,11-50,0.927,premiumgraph,aws;hubspot;snowflake,0.891,techscan,,,,,,,,,,0.0
+gamutbright25.example,Riley,Marsh,c_level,other,False,11-50,0.915,premiumgraph,segment;shopify;stripe,0.809,techscan,CEO & Founder,1.0,input,riley.marsh@gamutbright25.example,0.709,budgetdata,,,,0.05
+helixbright38.example,Sam,Pike,ic,sales,False,11-50,0.816,midfinder,segment;snowflake;stripe,0.821,techscan,Sales Development Rep,1.0,input,sam.pike@helixbright38.example,0.678,budgetdata,,,,0.05
+gamutorbit64.example,Casey,Hale,c_level,other,False,1-10,0.869,midfinder,salesforce,0.855,techscan,CEO & Founder,1.0,input,,,,,,,0.0
+helixnorth26.example,Skyler,Stone,manager,revops,True,51-200,0.841,midfinder,snowflake,0.806,techscan,Revenue Operations Manager,0.99,premiumgraph,skyler.stone@helixnorth26.example,0.906,premiumgraph,,,,0.75
+fablecobalt55.example,Jordan,Birch,ic,engineering,False,1001-5000,0.874,midfinder,salesforce;snowflake,0.833,techscan,Software Engineer,1.0,input,jordan.birch@fablecobalt55.example,0.592,scrapely,,,,0.02
+brightcobalt3.example,Jordan,Dunn,c_level,other,False,,,,aws;stripe,0.858,techscan,Chief Financial Officer,1.0,input,jordan.dunn@brightcobalt3.example,0.752,budgetdata,,,,0.05
+fableember42.example,Jordan,Orr,ic,sales,True,,,,aws;shopify,0.87,techscan,Account Executive,0.808,midfinder,jordan.orr@fableember42.example,0.951,premiumgraph,+1-555-748-3412,0.887,premiumgraph,1.47
+helixnorth26.example,Riley,Marsh,c_level,other,False,51-200,0.841,midfinder,snowflake,0.806,techscan,Founder & CEO,0.883,midfinder,riley.marsh@helixnorth26.example,0.746,budgetdata,,,,0.19
+cobaltcobalt45.example,Drew,Cedar,ic,engineering,False,51-200,0.961,premiumgraph,snowflake;zendesk,0.936,premiumgraph,Software Engineer,1.0,input,drew.cedar@cobaltcobalt45.example,0.684,budgetdata,,,,0.05
